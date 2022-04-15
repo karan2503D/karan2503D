@@ -1,6 +1,6 @@
-- 👋 Hi, I’m karan Dodeja 
-- 👀 I build FULL STACK projects in different technologies like .NET, Javascript , Python and another Web Stacks, you can check my work over here.
-- 🌱 I’m currently learning how to develop hybrid applications.
+- 👋 Hi, I’m Karan Dodeja 
+- 👨‍💻- I'm a Full Stack Developer.
+- 👀 I build in different technologies like DOT.NET, Java, Javascript , Python and another Web Stacks, you can check my work over here.
 - 📫 How to reach me : you can mail me on "kdodeja62@gmail.com".
 
 <!---
